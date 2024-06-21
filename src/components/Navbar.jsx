@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import DecorationImage from "../assets/img/decor.webp";
+import DecorationImage from "../assets/img/decor.png";
 
 import "./stylesheets/Navbar.css";
 
