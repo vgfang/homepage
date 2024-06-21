@@ -1,3 +1,3 @@
 # Personal Site
 
-Minimal personal site build using React + Vite and TailwindCSS.
+Minimal personal site built using React + Vite and TailwindCSS.
