@@ -57,7 +57,14 @@ a {
   color: var(--accent-text-color)
 }
 
-a:hover {
-  background-color: var(--accent-text-color);
+@media (hover: hover) and (pointer:fine) {
+  a:hover {
+    background-color: var(--accent-text-color);
+    color: var(--main-bg-color);
+  }
+}
+
+a:active {
+  background-color: var(--main-border-color);
   color: var(--main-bg-color);
 }
