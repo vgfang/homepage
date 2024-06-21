@@ -1,0 +1,27 @@
+.navbar-container {
+    margin-top: 3ch;
+}
+
+.name {
+    background-color: var(--main-border-color);
+    color: var(--main-bg-color);
+    padding: 1ch;
+    font-weight: bold;
+    max-width: fit-content;
+    font-weight: 800;
+}
+
+.navbar-links {
+    gap: 2ch;
+    margin-top: 3ch;
+}
+
+.navbar-img {
+    max-height: 100px;
+}
+
+@media only screen and (max-width: 767px) {
+    .navbar-container {
+        margin-top: 0;
+    }
+}
