@@ -9,13 +9,16 @@ export default function Home() {
         </p>
         <br />
         <p>
-          I am currently a computer science student at SFU. Most of my work has
-          been web development thus far, but I am actively expanding my skill
-          set.
+          Most of my career has been web development thus far, but I am
+          actively expanding my skill set.
         </p>
         <br />
         <p>
           I like to build efficient solutions that address real-world needs.
+        </p>
+        <br />
+        <p>
+          I completed a CS degree at SFU in 2024.
         </p>
       </section>
 
@@ -35,7 +38,7 @@ export default function Home() {
 
       <section>
         <h2>languages:</h2>
-        <p>JavaScript / TypeScript, Python, Kotlin, Java, C#, SQL</p>
+        <p>TypeScript / JavaScript, Go, Python, SQL, Java, Kotlin</p>
       </section>
 
       <section>
@@ -48,11 +51,11 @@ export default function Home() {
             </tr>
             <tr>
               <td>back-end:</td>
-              <td>node.js, express.js, flask</td>
+              <td>go, express.js</td>
             </tr>
             <tr>
               <td>databases:</td>
-              <td>postgreSQL, mySQL, firebase</td>
+              <td>postgreSQL, mySQL, sqlite3, firebase</td>
             </tr>
             <tr>
               <td>cloud:</td>
@@ -68,11 +71,11 @@ export default function Home() {
             </tr>
             <tr>
               <td>misc:</td>
-              <td>docker, git, GNU+Linux</td>
+              <td>docker, git, linux</td>
             </tr>
             <tr>
               <td>editors:</td>
-              <td>vscode, vim, jetbrains</td>
+              <td>neovim, vscode, jetbrains</td>
             </tr>
           </tbody>
         </table>
